@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://adobe.sharepoint.com/:f:/r/sites/demosite98/Shared%20Documents/demofolder
     type: markup
 
 folders:
